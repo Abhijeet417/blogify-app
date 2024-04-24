@@ -22,8 +22,7 @@ const categoryOptions = [
   "Sports" ,
   "Space" ,
   "Business",
-  "Demonstrative",
-  "Descriptive",
+  "Demonstrative"
 ];
 
 const AddEditBlog = ({user , setActive}) => {
