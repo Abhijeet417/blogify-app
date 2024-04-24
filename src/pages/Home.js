@@ -148,8 +148,6 @@ const Home = ({setActive , user,active}) => {
       }
   };
 
-//   console.log("blogs" , blogs);
-
 const handleChange = (e) => {
    const {value} = e.target;
    if(isEmpty(value)){

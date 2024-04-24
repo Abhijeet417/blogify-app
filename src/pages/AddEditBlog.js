@@ -21,7 +21,9 @@ const categoryOptions = [
   "Politics" ,
   "Sports" ,
   "Space" ,
-  "Business"
+  "Business",
+  "Demonstrative",
+  "Descriptive",
 ];
 
 const AddEditBlog = ({user , setActive}) => {
@@ -71,8 +73,6 @@ const AddEditBlog = ({user , setActive}) => {
     file && uploadFile();
   }, [file]);
   
-  console.log("form" , form);
-
   useEffect(() => {
      id && getBlogDetail();
      // eslint-disable-next-line react-hooks/exhaustive-deps   
