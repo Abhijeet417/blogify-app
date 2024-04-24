@@ -107,7 +107,7 @@ const Home = ({setActive , user,active}) => {
      if(!isNull(serachQuery)){
         searchBlogs();
      }
-  },[serachQuery]);
+  },[serachQuery,searchBlogs]);
 
 
   const searchBlogs = async () => {
