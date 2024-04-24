@@ -8,7 +8,7 @@ import Tags from '../components/Tags';
 import MostPopular from '../components/MostPopular';
 import Trending from '../components/Trending';
 import Search from '../components/Search';
-import { first, isEmpty, isNull } from "lodash";
+import { isEmpty, isNull } from "lodash";
 import { useLocation } from 'react-router-dom';
 
 function useQuery(){

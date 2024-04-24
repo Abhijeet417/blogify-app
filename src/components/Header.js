@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import pic from '../pic.jpg';
-import transitions from "bootstrap";
+
 
 const Header = ({active,setActive,user,handleLogout}) => {
   const userId = user?.uid;

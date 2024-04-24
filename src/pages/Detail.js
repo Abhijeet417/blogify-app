@@ -37,7 +37,7 @@ const Detail = ({setActive}) => {
          unsub();
         //  getTrendingBlogs();
      }; 
-  },[]);
+  },[setActive]);
 
   useEffect(() => {
      id && getBlogDetails();
