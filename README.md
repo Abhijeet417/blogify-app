@@ -3,7 +3,7 @@ This project is a WhatsApp Web application built to gain experience in full-stac
 
 ### Features:
 - **User Authentication**: Securely sign in with your credentials to access the application.
-- **Content Sharing**: Share images, videos, and documents seamlessly.
+- **Content Sharing**: Share ideas , view points and data seamlessly.
 - **Content Management**: Add, delete, or manage your blogs effortlessly.
 - **Responsive Design**: Enjoy a seamless experience across various devices.
 
