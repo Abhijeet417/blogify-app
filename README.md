@@ -1,5 +1,5 @@
 # Blogigy-web
-This project is a WhatsApp Web application built to gain experience in full-stack development for messaging platforms. It leverages React for the frontend, firebase for the backend, and firebase firestore databse as the NoSQL database.
+This project is a blog application built to gain experience in full-stack development with firebase. It leverages React for the frontend, firebase for the backend, and firebase firestore databse as the NoSQL database.
 
 ### Features:
 - **User Authentication**: Securely sign in with your credentials to access the application.
