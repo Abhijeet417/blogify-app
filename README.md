@@ -1,4 +1,4 @@
-# Blogigy-web
+# Blogify-web
 This project is a blog application built to gain experience in full-stack development with firebase. It leverages React for the frontend, firebase for the backend, and firebase firestore databse as the NoSQL database.
 
 ### Features:
